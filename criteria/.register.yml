@@ -1,3 +1,4 @@
 prefix: SR
 digits: 4
 title: Success Criteria
+type: system_requirement
