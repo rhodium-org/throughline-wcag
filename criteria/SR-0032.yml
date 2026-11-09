@@ -1,16 +1,18 @@
 uid: SR-0032
 type: system_requirement
-status: approved
+status: proposed
 title: Keyboard (No Exception) (AAA)
-text: All functionality of the content is operable through a keyboard interface without requiring
-  specific timings for individual keystrokes.
-rationale: The intent of this success criterion is to ensure that all content is operable from
-  the keyboard. This is the same as Success Criterion 2.1.1, except that no exceptions are allowed.
-  This does not mean that content where the underlying function requires input that depends
-  on the path of the user's movement and not just the endpoints (excluded from the requirements
-  of 2.1.1) must be made keyboard accessible. Rather, it means that content that uses path-dependent
-  input cannot conform to this success criterion and therefore cannot meet Guideline 2.1 at
-  Level AAA.
+text: All functionality of the content is operable through a keyboard interface without
+  requiring specific timings for individual keystrokes.
+rationale: The intent of this success criterion is to ensure that all content is
+  operable from the keyboard. This is the same as Success Criterion 2.1.1, except
+  that no exceptions are allowed. This does not mean that content where the underlying
+  function requires input that depends on the path of the user's movement and not
+  just the endpoints (excluded from the requirements of 2.1.1) must be made keyboard
+  accessible. Rather, it means that content that uses path-dependent input cannot
+  conform to this success criterion and therefore cannot meet Guideline 2.1 at Level
+  AAA.
+normative: true
 links:
 - target: UR-0005
   type: implements

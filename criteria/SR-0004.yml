@@ -1,14 +1,15 @@
 uid: SR-0004
 type: system_requirement
-status: approved
+status: proposed
 title: Audio Description or Media Alternative (Prerecorded) (A)
-text: An alternative for time-based media or audio description of the prerecorded video content
-  is provided for synchronized media, except when the media is a media alternative for text
-  and is clearly labeled as such.
-rationale: The intent of this success criterion is to provide people who are blind or visually
-  impaired access to the visual information in a synchronized media presentation in the same
-  human language as the video or page on which it appears. This success criterion describes
-  two approaches, either of which can be used.
+text: An alternative for time-based media or audio description of the prerecorded
+  video content is provided for synchronized media, except when the media is a media
+  alternative for text and is clearly labeled as such.
+rationale: The intent of this success criterion is to provide people who are blind
+  or visually impaired access to the visual information in a synchronized media presentation
+  in the same human language as the video or page on which it appears. This success
+  criterion describes two approaches, either of which can be used.
+normative: true
 links:
 - target: UR-0002
   type: implements

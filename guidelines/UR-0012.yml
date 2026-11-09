@@ -1,10 +1,12 @@
 uid: UR-0012
 type: user_requirement
-status: approved
+status: proposed
 title: Input Assistance — Help users avoid and correct mistakes.
 text: Help users avoid and correct mistakes.
-rationale: Everyone makes mistakes; clear labels, error identification, suggestions and prevention
-  help users avoid and recover from them, especially on legal, financial or data submissions.
+rationale: Everyone makes mistakes; clear labels, error identification, suggestions
+  and prevention help users avoid and recover from them, especially on legal, financial
+  or data submissions.
+normative: true
 links:
 - target: INT-0003
   type: derives_from

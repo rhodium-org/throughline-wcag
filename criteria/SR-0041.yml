@@ -1,14 +1,16 @@
 uid: SR-0041
 type: system_requirement
-status: approved
+status: proposed
 title: Three Flashes (AAA)
-text: Web pages do not contain anything that flashes more than three times in any one second
-  period.
-rationale: The purpose of this success criterion is to further reduce the chance of seizures.
-  Seizures cannot be completely eliminated since some people are so sensitive. However, by eliminating
-  all 3-per-second flashing over any area of the screen, the chances of a person having a seizure
-  are further reduced than when just meeting the measures ordinarily used today in standards
-  internationally, as we do at Level A.
+text: Web pages do not contain anything that flashes more than three times in any
+  one second period.
+rationale: The purpose of this success criterion is to further reduce the chance
+  of seizures. Seizures cannot be completely eliminated since some people are so
+  sensitive. However, by eliminating all 3-per-second flashing over any area of the
+  screen, the chances of a person having a seizure are further reduced than when
+  just meeting the measures ordinarily used today in standards internationally, as
+  we do at Level A.
+normative: true
 links:
 - target: UR-0007
   type: implements

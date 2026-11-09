@@ -1,13 +1,14 @@
 uid: SR-0087
 type: system_requirement
-status: approved
+status: proposed
 title: Status Messages (AA)
 text: In content implemented using markup languages, status messages can be programmatically
-  determined through role or properties such that they can be presented to the user by assistive
-  technologies without receiving focus.
-rationale: The intent of this success criterion is to make users aware of important changes
-  in content that are not given focus, and to do so in a way that doesn't unnecessarily interrupt
-  their work.
+  determined through role or properties such that they can be presented to the user
+  by assistive technologies without receiving focus.
+rationale: The intent of this success criterion is to make users aware of important
+  changes in content that are not given focus, and to do so in a way that doesn't
+  unnecessarily interrupt their work.
+normative: true
 links:
 - target: UR-0013
   type: implements

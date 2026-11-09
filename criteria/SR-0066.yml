@@ -1,13 +1,14 @@
 uid: SR-0066
 type: system_requirement
-status: approved
+status: proposed
 title: Unusual Words (AAA)
-text: A mechanism is available for identifying specific definitions of words or phrases used
-  in an unusual or restricted way, including idioms and jargon.
-rationale: Certain disabilities make it difficult to understand non-literal word usage and specialized
-  words or usage. Certain disabilities make it difficult to understand figurative language or
-  specialized usage. Providing mechanisms that help clarify these situations is vital for these
-  audiences.
+text: A mechanism is available for identifying specific definitions of words or phrases
+  used in an unusual or restricted way, including idioms and jargon.
+rationale: Certain disabilities make it difficult to understand non-literal word
+  usage and specialized words or usage. Certain disabilities make it difficult to
+  understand figurative language or specialized usage. Providing mechanisms that
+  help clarify these situations is vital for these audiences.
+normative: true
 links:
 - target: UR-0010
   type: implements

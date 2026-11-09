@@ -1,12 +1,13 @@
 uid: SR-0038
 type: system_requirement
-status: approved
+status: proposed
 title: Re-authenticating (AAA)
-text: When an authenticated session expires, the user can continue the activity without loss
-  of data after re-authenticating.
-rationale: The intent of this success criterion is to allow all users to complete authenticated
-  transactions that have inactivity time limits or other circumstances that would cause a user
-  to be logged out while in the midst of completing the transaction.
+text: When an authenticated session expires, the user can continue the activity without
+  loss of data after re-authenticating.
+rationale: The intent of this success criterion is to allow all users to complete
+  authenticated transactions that have inactivity time limits or other circumstances
+  that would cause a user to be logged out while in the midst of completing the transaction.
+normative: true
 links:
 - target: UR-0006
   type: implements

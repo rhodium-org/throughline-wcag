@@ -1,13 +1,15 @@
 uid: SR-0011
 type: system_requirement
-status: approved
+status: proposed
 title: Info and Relationships (A)
-text: Information, structure, and relationships conveyed through presentation can be programmatically
-  determined or are available in text.
-rationale: The intent of this success criterion is to ensure that information and relationships
-  that are implied by visual or auditory formatting are preserved when the presentation format
-  changes. For example, the presentation format changes when the content is read by a screen
-  reader or when a user style sheet is substituted for the style sheet provided by the author.
+text: Information, structure, and relationships conveyed through presentation can
+  be programmatically determined or are available in text.
+rationale: The intent of this success criterion is to ensure that information and
+  relationships that are implied by visual or auditory formatting are preserved when
+  the presentation format changes. For example, the presentation format changes when
+  the content is read by a screen reader or when a user style sheet is substituted
+  for the style sheet provided by the author.
+normative: true
 links:
 - target: UR-0003
   type: implements

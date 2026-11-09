@@ -1,13 +1,16 @@
 uid: SR-0003
 type: system_requirement
-status: approved
+status: proposed
 title: Captions (Prerecorded) (A)
-text: Captions are provided for all prerecorded audio content in synchronized media, except
-  when the media is a media alternative for text and is clearly labeled as such.
-rationale: The intent of this success criterion is to enable people who are deaf or hard of
-  hearing to watch synchronized media presentations. Captions provide the part of the content
-  available via the audio track. Captions not only include dialogue, but identify who is speaking
-  and include non-speech information conveyed through sound, including meaningful sound effects.
+text: Captions are provided for all prerecorded audio content in synchronized media,
+  except when the media is a media alternative for text and is clearly labeled as
+  such.
+rationale: The intent of this success criterion is to enable people who are deaf
+  or hard of hearing to watch synchronized media presentations. Captions provide
+  the part of the content available via the audio track. Captions not only include
+  dialogue, but identify who is speaking and include non-speech information conveyed
+  through sound, including meaningful sound effects.
+normative: true
 links:
 - target: UR-0002
   type: implements

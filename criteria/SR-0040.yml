@@ -1,14 +1,16 @@
 uid: SR-0040
 type: system_requirement
-status: approved
+status: proposed
 title: Three Flashes or Below Threshold (A)
-text: 'Web pages do not contain anything that flashes more than three times in any one second
-  period, or the flash is below the general flash and red flash thresholds. NoteSince any content
-  that does not meet this success criterion can interfere with a user''s ability to use the
-  whole page, all content on the web page (whether it is used to meet other success criteria
-  or not) must meet this success criterion. See Conformance Requirement 5: Non-Interference.'
-rationale: The intent of this success criterion is to allow users to access the full content
-  of a site without inducing seizures due to photosensitivity.
+text: 'Web pages do not contain anything that flashes more than three times in any
+  one second period, or the flash is below the general flash and red flash thresholds.
+  NoteSince any content that does not meet this success criterion can interfere with
+  a user''s ability to use the whole page, all content on the web page (whether it
+  is used to meet other success criteria or not) must meet this success criterion.
+  See Conformance Requirement 5: Non-Interference.'
+rationale: The intent of this success criterion is to allow users to access the full
+  content of a site without inducing seizures due to photosensitivity.
+normative: true
 links:
 - target: UR-0007
   type: implements

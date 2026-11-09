@@ -1,13 +1,15 @@
 uid: SR-0036
 type: system_requirement
-status: approved
+status: proposed
 title: No Timing (AAA)
-text: Timing is not an essential part of the event or activity presented by the content, except
-  for non-interactive synchronized media and real-time events.
-rationale: The intent of this success criterion is to minimize the occurrence of content that
-  requires timed interaction. This enables people with blindness, low vision, cognitive limitations,
-  or motor impairments to interact with content. This differs from the Level A success criterion
-  in that the only exception is for real-time events.
+text: Timing is not an essential part of the event or activity presented by the content,
+  except for non-interactive synchronized media and real-time events.
+rationale: The intent of this success criterion is to minimize the occurrence of
+  content that requires timed interaction. This enables people with blindness, low
+  vision, cognitive limitations, or motor impairments to interact with content. This
+  differs from the Level A success criterion in that the only exception is for real-time
+  events.
+normative: true
 links:
 - target: UR-0006
   type: implements

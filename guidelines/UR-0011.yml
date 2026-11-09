@@ -1,10 +1,11 @@
 uid: UR-0011
 type: user_requirement
-status: approved
+status: proposed
 title: Predictable — Make web pages appear and operate in predictable ways.
 text: Make web pages appear and operate in predictable ways.
-rationale: Interfaces that behave consistently and change only when the user expects it let
-  people with cognitive differences build reliable mental models.
+rationale: Interfaces that behave consistently and change only when the user expects
+  it let people with cognitive differences build reliable mental models.
+normative: true
 links:
 - target: INT-0003
   type: derives_from

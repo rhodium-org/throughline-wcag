@@ -1,15 +1,17 @@
 uid: SR-0081
 type: system_requirement
-status: approved
+status: proposed
 title: Error Prevention (All) (AAA)
-text: 'For web pages that require the user to submit information, at least one of the following
-  is true: ReversibleSubmissions are reversible. CheckedData entered by the user is checked
-  for input errors and the user is provided an opportunity to correct them. ConfirmedA mechanism
-  is available for reviewing, confirming, and correcting information before finalizing the submission.'
-rationale: The intent of this success criterion is to help users with disabilities avoid consequences
-  that may result from making a mistake when submitting form data. This criterion builds on
-  Success Criterion 3.3.4 Error Prevention (Legal, Financial, Data) in that it applies to all
-  forms that require users to submit information.
+text: 'For web pages that require the user to submit information, at least one of
+  the following is true: ReversibleSubmissions are reversible. CheckedData entered
+  by the user is checked for input errors and the user is provided an opportunity
+  to correct them. ConfirmedA mechanism is available for reviewing, confirming, and
+  correcting information before finalizing the submission.'
+rationale: The intent of this success criterion is to help users with disabilities
+  avoid consequences that may result from making a mistake when submitting form data.
+  This criterion builds on Success Criterion 3.3.4 Error Prevention (Legal, Financial,
+  Data) in that it applies to all forms that require users to submit information.
+normative: true
 links:
 - target: UR-0012
   type: implements

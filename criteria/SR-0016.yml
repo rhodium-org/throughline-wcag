@@ -1,12 +1,13 @@
 uid: SR-0016
 type: system_requirement
-status: approved
+status: proposed
 title: Identify Purpose (AAA)
-text: In content implemented using markup languages, the purpose of user interface components,
-  icons, and regions can be programmatically determined.
-rationale: The intent of this success criterion is to ensure that the purpose of many elements
-  on a page can be programmatically determined, so that user agents can extract and present
-  that purpose to users using different modalities.
+text: In content implemented using markup languages, the purpose of user interface
+  components, icons, and regions can be programmatically determined.
+rationale: The intent of this success criterion is to ensure that the purpose of
+  many elements on a page can be programmatically determined, so that user agents
+  can extract and present that purpose to users using different modalities.
+normative: true
 links:
 - target: UR-0003
   type: implements
